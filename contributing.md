@@ -201,7 +201,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*GTA 5 Online · Updated 2026-11-01 · Shared under the MIT License*
+*GTA 5 Online · Updated 2026-11-02 · Shared under the MIT License*
 
 
-Updated 2026-11-01.
+Updated 2026-11-02.
